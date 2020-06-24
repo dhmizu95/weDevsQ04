@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Sunsilk",
+      "category": [
+        "Powder"
+      ],
+      "price": "100"
+    },
+    {
+      "id": 4,
+      "name": "Lifeboy",
+      "category": [
+        "Soap"
+      ],
+      "price": "20"
+    },
+    {
+      "name": "Lux",
+      "category": [
+        "Shampoo"
+      ],
+      "price": "20",
+      "id": 5
+    },
+    {
+      "name": "Nobel",
+      "category": [
+        "Shampoo"
+      ],
+      "price": "20",
+      "id": 7
+    },
+    {
+      "name": "Nobel",
+      "category": [
+        "Soap"
+      ],
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "Nobel",
+      "category": [
+        "Shampoo"
+      ],
+      "price": "13",
+      "id": 11
+    },
+    {
+      "name": "Nobel",
+      "category": [
+        "Shampoo"
+      ],
+      "price": "20",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Nobel",
+      "category": [
+        "Shampoo"
+      ],
+      "price": "12"
+    },
+    {
+      "name": "Lux",
+      "category": [
+        "Filter"
+      ],
+      "price": "20",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Soap"
+    },
+    {
+      "id": 2,
+      "category": "Shampoo"
+    },
+    {
+      "category": "Powder",
+      "id": 3
+    },
+    {
+      "category": "Door",
+      "id": 4
+    },
+    {
+      "category": "Filter",
+      "id": 5
+    }
+  ]
+}
